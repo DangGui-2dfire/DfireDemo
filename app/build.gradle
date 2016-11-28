@@ -37,5 +37,5 @@ dependencies {
         compile project(':businessa')
         compile project(':business_b')
     }
-    compile project(':base')
+    compile project(':base')//公共组件
 }
