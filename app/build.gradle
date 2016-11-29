@@ -37,11 +37,5 @@ dependencies {
         compile project(':businessa')
         compile project(':business_b')
     }
-    //dev branch
-    //dev test
-    //add master conflict
-    //add dev conflict
-    //test dev studio
-    //no commit
     compile project(':base')//公共组件是否按时
 }
