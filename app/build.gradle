@@ -39,5 +39,6 @@ dependencies {
     }
     //noff dev
     //noff dev1
+    //fix bug01
     compile project(':base')//公共组件是否按时
 }
