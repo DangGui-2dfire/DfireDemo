@@ -41,5 +41,6 @@ dependencies {
     //dev test
     //add master conflict
     //add dev conflict
+    //test dev studio
     compile project(':base')//公共组件是否按时
 }
