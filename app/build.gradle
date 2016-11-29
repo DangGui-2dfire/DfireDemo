@@ -37,7 +37,6 @@ dependencies {
         compile project(':businessa')
         compile project(':business_b')
     }
-    //noff dev
-    //noff dev1
+    //developing new feature on dev
     compile project(':base')//公共组件是否按时
 }
