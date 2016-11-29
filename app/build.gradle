@@ -37,5 +37,6 @@ dependencies {
         compile project(':businessa')
         compile project(':business_b')
     }
+    //dev branch
     compile project(':base')//公共组件是否按时
 }
