@@ -40,5 +40,6 @@ dependencies {
     //dev branch
     //dev test
     //add master conflict
+    //add dev conflict
     compile project(':base')//公共组件是否按时
 }
